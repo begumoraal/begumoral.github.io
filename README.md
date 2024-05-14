@@ -6,7 +6,7 @@ Welcome to my personal landing page repository!
 
 This repository contains the code for my personal landing page. The landing page is designed to provide visitors with brief information about me, my socials and my resume.
 
-##Legal
+## Legal
 
 This website is made by using the Dimension template from html5up.net
 All rights reserved.
