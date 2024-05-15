@@ -18,3 +18,6 @@ All rights reserved.
 Feel free to reach out to me if you have any questions or suggestions."# begumoral.github.io" 
 "# begumoral.github.io" 
 "# begumoral.github.io" 
+
+## Notes
+Currently hosting this website from an organization repo as github doesn't allow me to host it on begumoral.github.io, unless I change my github username.
